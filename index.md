@@ -7,3 +7,5 @@ Od 2018 łączymy pasjonatów technologii .Net z Bydgoszczy oraz okolic. Organiz
 ### [10. spotkanie - Programowanie funkcyjne w C#, Testy integracyjne w .Net Core](./2020/11/27/10-spotkanie-bug-net.md)
 
 ### [9. spotkanie - Zbuduj swój Event Store w godzinę, REDIS - więcej niż cache](./2020/10/20/9-spotkanie-bug-net.md)
+
+### [8. spotkanie - Testowanie WebApi z użyciem Postmana,  Modele identygikacji w aplikacjach](./2020/2/21/8-spotkanie-bug-net.md)
