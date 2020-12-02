@@ -1,4 +1,4 @@
-## 8. spotkanie Bydgoszcz .Net User Group
+## 1. spotkanie Bydgoszcz .Net User Group
 
 ![Prezentacja 1](./1.png)
 
